@@ -1,8 +1,15 @@
 # Java Traditional 24 Card Game 
 Main objective is to manipulate four random cards (and think in numbers) and use arithmetical expressions to equal 24.
-/* JavaDocs */
 
-# Image Demonstration
+## Features
+- Stylish Graphical User Interface (GUI) with Traditional Playing Cards
+- Object Oriented Programing with interface structure
+- Generic stack implementation
+- Error Validation for wrong user input
+- Fully-written Javadoc
+- Capability of Printing
+
+## Image Demonstration
 ![image](https://user-images.githubusercontent.com/13756917/57291274-f9711b00-7073-11e9-97c8-d39d19902f65.png)
 ![image](https://user-images.githubusercontent.com/13756917/57291284-fe35cf00-7073-11e9-8b92-7d47281c0031.png)
 ![image](https://user-images.githubusercontent.com/13756917/57291289-00982900-7074-11e9-8522-f4090dfab54d.png)
